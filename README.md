@@ -16,7 +16,7 @@
         android:layout_width="wrap_content"</br>
         android:layout_height="wrap_content"/></br>
 
-         StartBar sb_have_score = (StartBar) findViewById(R.id.sb_have_score);</br>
-         sb_have_score.setCore(3);</br>
+         StartBar sb_have_score = (StartBar) findViewById(R.id.sb_have_score);
+         sb_have_score.setCore(3);
 
 ![image](https://github.com/tzz2015/StartBar/blob/master/file/Screenshot_2017-06-16-11-11-18-496_com.rongke.mif.png)
