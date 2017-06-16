@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 评分栏属性-->
+    <declare-styleable name="StartBar">
+        <attr name="is_need_score" format="boolean"/> <!--是否需要显示分数-->
+        <attr name="is_need_touch" format="boolean"/> <!--触摸改变评分-->
+        <attr name="text_color" format="color"/> <!--文本颜色-->
+        <attr name="star_height" format="integer"/><!--星星高度-->
+    </declare-styleable>
+
+</resources>
